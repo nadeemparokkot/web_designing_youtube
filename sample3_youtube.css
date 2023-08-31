@@ -1,0 +1,322 @@
+
+.body{
+    margin: 0;
+}
+.main-header{
+    width: 100%;
+    height: 65px;
+    background: white;
+
+}
+.header1{
+    width: 35%;
+    float: left;
+
+ 
+}
+.bar{
+    float: left;
+    width: 7%;
+}
+
+.logo{
+    float: left;
+    width: 90%;
+    height: 50px;
+        
+}
+.logoimg{
+    height: 67px;
+    margin-top: -14px;
+}
+.in{
+    margin-top: -58px;
+    margin-left: 118px;
+    font-size: 12px;
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+}
+.fa-bars{
+    padding-top: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
+.fa-youtube{
+    padding-top: 5px;
+    margin-left: 5px;
+    font-size: 27px;
+    color: red;
+   
+    
+
+}
+.header2{
+    width: 55%;
+    float: left;
+
+}
+.searchbar{
+    border-style: solid;
+    border-color: rgb(224, 218, 218);
+    width: 300px;
+    border-radius: 40px 0 0 40px;
+    height: 40px;
+    width: 550px;
+    border-width: 1px;
+    font-size: 16px;
+    float: left;
+}
+.searchbtn{
+    float: left;
+    border-width: 1px;
+    height: 44px;
+    width: 64px;
+    border-radius: 0 40px 40px 0;
+    border-style: solid;
+    border-color: rgb(224, 218, 218);
+    cursor: pointer; /*mouse verumbo change aakan hover set akkaan*/
+
+
+}
+.searchbtn:hover{ 
+    background: rgb(230, 230, 230);
+}
+.fa-magnifying-glass{
+    font-size: 20px;
+}
+.voicebtn{
+    border-radius: 40px;
+    height: 44px;
+    width: 44px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+.voicebtn:hover{
+    background: rgb(230, 230, 230);
+}
+.fa-microphone-lines{
+    font-size: 20px;
+}
+.header3{
+    width: 10%;
+    float: left;
+}
+.createbtn{
+    float: left;
+    border-radius: 40px;
+    height: 44px;
+    width: 44px;
+    border-style: solid;
+    background: #fff;
+    border-color:#fff;
+    border-width: 1px;
+    cursor: pointer;
+}
+.createbtn:hover{
+    background: rgb(230, 230, 230);
+}
+.createimg{
+    width: 25px;
+}
+.notificationbtn{
+    float: left;
+    margin-left: 5px;
+    border-radius: 40px;
+    height: 44px;
+    width: 44px;
+    border-style: solid;
+    background: #fff;
+    border-color: #fff;
+    border-width: 1px;
+    cursor: pointer;
+}
+.notificationbtn:hover{
+    background: rgb(230, 230, 230);
+}
+.fa-bell{
+    font-size: 22px;
+}
+.profilebtn{
+    border-radius: 40px;
+    margin-left: 5px;
+    height: 44px;
+    width: 44px;
+    border-style: solid;
+    background: #fff;
+    border-color: #fff;
+    border-width: 1px;
+    background-image: url(IMG_20230512_064922.jpg);
+    background-size: cover;
+}
+.right-sector{
+    float: left;
+    width: 12%;
+    height: 2100px;
+}
+.sidebtn{
+    width: 100%;
+    height: 45px;
+    border-radius: 12px;
+    border-style: solid;
+    border-color: #fff;
+    border-width: 1px;
+    background: #fff;
+    cursor: pointer;
+}
+.sidebtn:hover{
+    background:  rgb(230, 230, 230);
+}
+.sidebtn-left{
+    float: left;
+    width: 10%;
+}
+.sidebtn-right{
+    float: left;
+    margin-top: -5px;
+    width: 90%;
+}
+.fa-house{
+    padding-left: 10px;
+    padding-top: 8px;
+    font-size: 19px;
+}
+.sidetext{
+    font-size: 16px;
+    padding-left: 15px;
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.shortsimg{
+    padding-left: 5px;
+    padding-top: 7px;
+    width: 26px;
+    
+}
+.subscriptionimg{
+    padding-left: 5px;
+    padding-top: 6px;
+    width: 25px;
+}
+.line{
+    height: 1px;
+    background-color:  rgb(230, 230, 230);
+    border: none;
+}
+.sideimg{
+    width: 25px;
+    padding-left: 5px;
+    padding-top: 6px;
+    
+}
+.sidetextmain{
+    font-size: 18px;
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-left: 10px;
+
+}
+.link1{
+    color: rgb(119, 119, 119);
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    text-decoration: none;
+
+}
+.right-sector7{
+    padding-left: 10px;
+}
+.link2{
+    color: rgb(133, 133, 133);
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 13px;
+    text-decoration: none;
+}
+.left-sector{
+    float: left;   
+    width: 88%;
+    height: 2200px;
+}
+.left-sector-tab{
+    width: 100%;
+    height: 32px;
+    
+   
+}
+
+.tabbtn{
+    border-width: 1px;
+    height: 32px;
+    float: left;
+    margin-left: 15px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: rgb(224, 218, 218);
+    cursor: pointer; /*mouse verumbo change aakan hover set akkaan*/
+    font-size: 15px;
+
+}
+.tabbtn:hover{ 
+    background: rgb(230, 230, 230);
+}
+.left-sector-continer{
+    width: 100%;
+    height: 2000px;
+}
+.video-div{
+    float: left;
+    margin-top: 30px;
+    margin-left: 15px;
+
+}
+.video-img{
+    width: 370px;
+    height: 220px;
+    border-radius: 15px;
+}
+.profilediv{
+    float: left;
+    padding-right: 12px;
+    
+}
+.thumbpara{
+    margin-top: -1px;
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+.thumbnailbtn{
+    border-radius: 40px;
+    height: 44px;
+    width: 44px;
+    border-style: solid;
+    background: #fff;
+    border-color: #fff;
+    border-width: 1px;
+    background-image: url(logo1.png);
+    background-size: cover;
+}
+.thumbpara1{
+    margin-top: -10PX;
+    padding-left: 60px;
+    font-family: 'YouTube Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    color: rgb(112, 112, 112);
+}
+.line2{
+    height: 4px;
+    background-color:  rgb(230, 230, 230);
+    border: none;
+}
+.shorts-div{
+    float: left;
+    width: 280px;
+    height: 400px;
+    margin-top: 20px;
+    background: yellow;
+}
+.shorts{
+    float: left;
+    width: 60px;
+}
